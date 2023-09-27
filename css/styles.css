@@ -146,7 +146,7 @@ justify-content:center;
     
     background: #2E2F42;
     padding: 188px 0;
-    background-image:linear-gradient(rgba(46, 47, 66, 0.7),rgba(46, 47, 66, 0.7)), url(../images/img/people-office\ 1-min.jpg);
+    background-image:linear-gradient(rgba(46, 47, 66, 0.7), rgba(46, 47, 66, 0.7)), url(../images/img/people-office\ 1-min.jpg);
     max-width: 1440px;
     margin: 0 auto;
     background-repeat: no-repeat;
@@ -307,7 +307,10 @@ width: calc((100% - 72px) / 4);
     margin: 0;
     justify-content: center;
     gap: 24px;
-    width: 40px;
+    
+}
+.section-container-svg{
+width: 40px;
     height: 40px;
 }
 
